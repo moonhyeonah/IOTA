@@ -1,4 +1,4 @@
-**IOTA: A Calculus for Internet of Things Automation**
+# **IOTA: A Calculus for Internet of Things Automation**
 
 Abstract
 
