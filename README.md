@@ -6,7 +6,7 @@ Proceedings of the 2017 ACM SIGPLAN International Symposium on New Ideas, New Pa
 
 
 
-###Abstract
+### Abstract
 
 프로그램적으로 제어할 수 있는 홈 디바이스가 점점 더 확산되고 있다. 조명,
 도어록, 모션 센서부터 스마트 냉장고, TV, 카메라에 이르기까지 다양한
