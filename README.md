@@ -1,6 +1,6 @@
 # **IOTA: A Calculus for Internet of Things Automation**
 
-Authors: Julie L. Newcomb, Satish Chandra, Jean-Baptiste Jeannin, Cole Schlesinger, Manu SridharanAuthors Info & Claims
+Authors: Julie L. Newcomb, Satish Chandra, Jean-Baptiste Jeannin, Cole Schlesinger, Manu Sridharan
 
 Proceedings of the 2017 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software, Pages 119 - 133
 
